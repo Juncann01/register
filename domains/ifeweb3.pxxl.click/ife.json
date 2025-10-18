@@ -1,9 +1,12 @@
 {
-  "description": "Web3 Developer Portfolio",
+  "description": "ifeweb3 portfolio",
   "owner": {
-    "email": "ifeo55394@gmail.com"
+    "email": "ifeo55394@gmail.com",
+    "github": "Juncann01"
   },
-  "record": {
-    "CNAME": "ifeweb3.pxxl.click/"
-  }
+  "records": [
+    {
+      "CNAME": "ifeweb3.pxxl.click"
+    }
+  ]
 }
